@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>เว็บแนะนำตัว</title>
+</head>
+
+<body style="background-color:#e6f2ff;">
+
+  <h1>สวัสดีครับ</h1>
+  <p>ผมชื่อ ธนัช สุรรณศรี</p>
+
+  <h2>เกี่ยวกับฉัน</h2>
+  <p>
+    ผมเป็นคนที่พึ่งเริ่มเรียนเขียนเว็บ
+    และกำลังฝึกใช้ภาษา HTML
+  </p>
+
+  <h2>สิ่งที่ผมสนใจ</h2>
+  <ul>
+    <li>การเขียนโปรแกรม</li>
+    <li>คอมพิวเตอร์</li>
+    <li>เกม</li>
+  </ul>
+
+  <h2>ช่องทางติดต่อ</h2>
+  <p>Email: suvantani44444@gmail.com
+</p>
+
+</body>
+</html>
