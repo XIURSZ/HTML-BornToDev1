@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>แนะนำตัว | My Profile</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      background: linear-gradient(135deg, #0eb4fc, #203a43, #04c088);
+      color: #ffffff;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    .card {
+      background: rgba(6, 8, 156, 0.459);
+      border-radius: 16px;
+      padding: 30px;
+      box-shadow: 0 10px 30px rgba(121, 118, 118, 0.3);
+    }
+    .profile {
+      text-align: center;
+    }
+    .profile img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 4px solid #d0e60c;
+    }
+    h1 {
+      margin-top: 20px;
+      font-size: 2.2rem;
+    }
+    h2 {
+      margin-top: 40px;
+      font-size: 1.5rem;
+      border-bottom: 2px solid #ffffff33;
+      padding-bottom: 10px;
+    }
+    p {
+      line-height: 1.7;
+      font-size: 1.05rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      padding: 8px 0;
+    }
+    
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <div class="profile">
+        <img src="https://scontent.fbkk5-4.fna.fbcdn.net/v/t39.30808-1/572498339_817927021167715_6956696697310695599_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_ohc=7XVdGPbJFKEQ7kNvwHdsfXe&_nc_oc=AdlN0Q1XJl9-HKupmZtYFMn3D1drrY5WaxHZdj3NeXnxnxwq__EftxsLRlmCbYisZt8&_nc_zt=24&_nc_ht=scontent.fbkk5-4.fna&_nc_gid=yOiTg8UWiI73fSOgYitBmw&oh=00_AfmF_nKlMt1_S8ySVjd3yDH3hCb5q3ByAFMJbezZbmybPQ&oe=6957D983" alt="Profile Picture">
+        <h1>Tanat Suwan</h1>
+        <p>IT Basic WebLeaner By BornToDev</p>
+      </div>
+
+      <h2>เกี่ยวกับฉัน</h2>
+      <p>
+        สวัสดีครับ ผมอยกับคอมตั้งแต่เด็กจนหลงรักมันแต่ำไม่เคยรู้ว่ามันทำอะไรได้มากขนาดนี้ และตอนนี้ยังเป็นมือใหม่ด้านนี้ครับ
+      </p>
+
+      <h2>ทักษะ</h2>
+      <ul>
+        <li>💻 HTML / CSS</li>
+        <li>⚙️ JavaScript (พื้นฐาน)</li>
+        <li>🎮 Sim Racing / Gaming</li>
+      </ul>
+
+      <h2>ช่องทางติดต่อ</h2>
+      <p>
+        📧 Email: z63341@gmail.com<br>
+        📘 Facebook: Suwan Taw<br>
+        📸 Instagram: @SuwanZs
+      </p>
+
+      
+    </div>
+  </div>
+</body>
+</html>
